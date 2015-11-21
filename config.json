@@ -1,0 +1,14 @@
+{
+  "count_item": 1,
+  "dir_name": ".",
+  "type_data": "audio/mpeg",
+  "urls": [
+    "http://feeds.rucast.net/radio-t",
+    "http://feeds.feedburner.com/pirate-radio-t",
+    "http://feeds.rucast.net/Umputun",
+    "http://feeds.feedburner.com/razbor-podcast",
+    "http://devzen.ru/feed/"
+  ],
+  "timeout_check_urls": 5,
+  "timeout_check_files": 10
+}
