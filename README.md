@@ -19,6 +19,5 @@ Configuration tools are located in the file config.json
 
 TODO
 --------------------------------------------------------------------
- * work with docker
  * continue download corrupted files
  * unit tests
