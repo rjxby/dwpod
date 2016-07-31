@@ -1,6 +1,6 @@
 {
   "count_item": 1,
-  "dir_name": ".",
+  "dir_name": "./data",
   "type_data": "audio/mpeg",
   "urls": [
     "http://feeds.rucast.net/radio-t",
@@ -10,5 +10,6 @@
     "http://devzen.ru/feed/"
   ],
   "timeout_check_urls": 5,
-  "timeout_check_files": 10
+  "timeout_check_files": 10,
+  "delta_stored": 7
 }

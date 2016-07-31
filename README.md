@@ -13,13 +13,12 @@ Configuration tools are located in the file config.json
  * dir_name - The folder where the files will be uploaded;
  * type_data - The type of data to be downloaded;
  * urls - Links to feeds(RSS);
- * timeout_check_urls - Interval to check for updates in feeds(RSS);
- * timeout_check_files - Interval to cleaning up old files;
+ * timeout_check_urls - Interval to check for updates in feeds(RSS) (minutes);
+ * timeout_check_files - Interval to cleaning up old files (minutes);
+ * delta_stored - Stored time (days)
 
 TODO
 --------------------------------------------------------------------
- * remove old files
- * logging
  * work with docker
  * continue download corrupted files
- * push notifications
+ * unit tests
