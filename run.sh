@@ -1,0 +1,1 @@
+docker build -t dwpod . && docker run -it dwpod
